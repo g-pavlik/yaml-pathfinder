@@ -39,7 +39,7 @@ GEM
     gherkin (5.1.0)
     multi_json (1.13.1)
     multi_test (0.1.2)
-    rake (10.5.0)
+    rake (13.0.6)
     rspec (3.7.0)
       rspec-core (~> 3.7.0)
       rspec-expectations (~> 3.7.0)
@@ -62,7 +62,7 @@ DEPENDENCIES
   aruba
   bundler (~> 1.16)
   cucumber
-  rake (~> 10.0)
+  rake (~> 13.0)
   rspec (~> 3.0)
   yaml-pathfinder!
 
